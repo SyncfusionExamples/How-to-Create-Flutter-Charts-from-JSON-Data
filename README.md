@@ -8,7 +8,7 @@ Documentation: https://help.syncfusion.com/flutter/cartesian-charts/getting-star
 ## Requirements to run the demo
 * [VS Code](https://code.visualstudio.com/download)
 * [Flutter SDK v3.24.3+](https://flutter.dev/docs/development/tools/sdk/overview)
-* [For more development tools] (https://flutter.dev/docs/development/tools/devtools/overview)
+* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
 ## How to run this application
 To run this application, you need to first clone or download the ‘How-to-Create-Flutter-Charts-from-JSON-Data’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
