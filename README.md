@@ -14,5 +14,5 @@ Documentation: https://help.syncfusion.com/flutter/cartesian-charts/getting-star
 To run this application, you need to first clone or download the ‘How-to-Create-Flutter-Charts-from-JSON-Data’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
 ## Further help
-For more help, check the [Syncfusion Flutter documentation] (https://help.syncfusion.com/flutter/introduction/overview) or
+For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview) or
  [Flutter documentation](https://flutter.dev/docs/get-started/install).
