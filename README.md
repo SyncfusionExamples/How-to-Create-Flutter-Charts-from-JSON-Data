@@ -1,16 +1,17 @@
-# myflutterapp
+# How to Create Flutter Charts from JSON Data
+A quick-start example to help you create a chart from JSON data using the Syncfusion Flutter Chart. You will learn how to load the JSON data and map it to the chart series.
+Watch the video: Coming soon...
 
-A new Flutter project.
+Documentation: https://help.syncfusion.com/flutter/cartesian-charts/getting-started
 
-## Getting Started
+## Requirements to run the demo
+* [VS Code](https://code.visualstudio.com/download)
+* [Flutter SDK v3.24.3+](https://flutter.dev/docs/development/tools/sdk/overview)
+* [For more development tools] (https://flutter.dev/docs/development/tools/devtools/overview)
 
-This project is a starting point for a Flutter application.
+## How to run this application
+To run this application, you need to first clone or download the ‘How-to-Create-Flutter-Charts-from-JSON-Data’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Further help
+For more help, check the [Syncfusion Flutter documentation] (https://help.syncfusion.com/flutter/introduction/overview) or
+ [Flutter documentation](https://flutter.dev/docs/get-started/install).
